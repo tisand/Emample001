@@ -1,0 +1,15 @@
+E:\Examples001_HelloConsole\Exapmle001_Console\bin\Debug\net7.0\Exapmle001_Console.exe
+E:\Examples001_HelloConsole\Exapmle001_Console\bin\Debug\net7.0\Exapmle001_Console.deps.json
+E:\Examples001_HelloConsole\Exapmle001_Console\bin\Debug\net7.0\Exapmle001_Console.runtimeconfig.json
+E:\Examples001_HelloConsole\Exapmle001_Console\bin\Debug\net7.0\Exapmle001_Console.dll
+E:\Examples001_HelloConsole\Exapmle001_Console\bin\Debug\net7.0\Exapmle001_Console.pdb
+E:\Examples001_HelloConsole\Exapmle001_Console\obj\Debug\net7.0\Exapmle001_Console.csproj.AssemblyReference.cache
+E:\Examples001_HelloConsole\Exapmle001_Console\obj\Debug\net7.0\Exapmle001_Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Examples001_HelloConsole\Exapmle001_Console\obj\Debug\net7.0\Exapmle001_Console.AssemblyInfoInputs.cache
+E:\Examples001_HelloConsole\Exapmle001_Console\obj\Debug\net7.0\Exapmle001_Console.AssemblyInfo.cs
+E:\Examples001_HelloConsole\Exapmle001_Console\obj\Debug\net7.0\Exapmle001_Console.csproj.CoreCompileInputs.cache
+E:\Examples001_HelloConsole\Exapmle001_Console\obj\Debug\net7.0\Exapmle001_Console.dll
+E:\Examples001_HelloConsole\Exapmle001_Console\obj\Debug\net7.0\refint\Exapmle001_Console.dll
+E:\Examples001_HelloConsole\Exapmle001_Console\obj\Debug\net7.0\Exapmle001_Console.pdb
+E:\Examples001_HelloConsole\Exapmle001_Console\obj\Debug\net7.0\Exapmle001_Console.genruntimeconfig.cache
+E:\Examples001_HelloConsole\Exapmle001_Console\obj\Debug\net7.0\ref\Exapmle001_Console.dll

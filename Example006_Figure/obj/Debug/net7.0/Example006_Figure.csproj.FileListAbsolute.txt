@@ -1,0 +1,15 @@
+E:\Examples001_HelloConsole\Example006_Figure\bin\Debug\net7.0\Example006_Figure.exe
+E:\Examples001_HelloConsole\Example006_Figure\bin\Debug\net7.0\Example006_Figure.deps.json
+E:\Examples001_HelloConsole\Example006_Figure\bin\Debug\net7.0\Example006_Figure.runtimeconfig.json
+E:\Examples001_HelloConsole\Example006_Figure\bin\Debug\net7.0\Example006_Figure.dll
+E:\Examples001_HelloConsole\Example006_Figure\bin\Debug\net7.0\Example006_Figure.pdb
+E:\Examples001_HelloConsole\Example006_Figure\obj\Debug\net7.0\Example006_Figure.csproj.AssemblyReference.cache
+E:\Examples001_HelloConsole\Example006_Figure\obj\Debug\net7.0\Example006_Figure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Examples001_HelloConsole\Example006_Figure\obj\Debug\net7.0\Example006_Figure.AssemblyInfoInputs.cache
+E:\Examples001_HelloConsole\Example006_Figure\obj\Debug\net7.0\Example006_Figure.AssemblyInfo.cs
+E:\Examples001_HelloConsole\Example006_Figure\obj\Debug\net7.0\Example006_Figure.csproj.CoreCompileInputs.cache
+E:\Examples001_HelloConsole\Example006_Figure\obj\Debug\net7.0\Example006_Figure.dll
+E:\Examples001_HelloConsole\Example006_Figure\obj\Debug\net7.0\refint\Example006_Figure.dll
+E:\Examples001_HelloConsole\Example006_Figure\obj\Debug\net7.0\Example006_Figure.pdb
+E:\Examples001_HelloConsole\Example006_Figure\obj\Debug\net7.0\Example006_Figure.genruntimeconfig.cache
+E:\Examples001_HelloConsole\Example006_Figure\obj\Debug\net7.0\ref\Example006_Figure.dll

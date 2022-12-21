@@ -1,0 +1,15 @@
+E:\Examples001_HelloConsole\Example004_ifElse\obj\Debug\net7.0\Example004_ifElse.csproj.AssemblyReference.cache
+E:\Examples001_HelloConsole\Example004_ifElse\obj\Debug\net7.0\Example004_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Examples001_HelloConsole\Example004_ifElse\obj\Debug\net7.0\Example004_ifElse.AssemblyInfoInputs.cache
+E:\Examples001_HelloConsole\Example004_ifElse\obj\Debug\net7.0\Example004_ifElse.AssemblyInfo.cs
+E:\Examples001_HelloConsole\Example004_ifElse\obj\Debug\net7.0\Example004_ifElse.csproj.CoreCompileInputs.cache
+E:\Examples001_HelloConsole\Example004_ifElse\bin\Debug\net7.0\Example004_ifElse.exe
+E:\Examples001_HelloConsole\Example004_ifElse\bin\Debug\net7.0\Example004_ifElse.deps.json
+E:\Examples001_HelloConsole\Example004_ifElse\bin\Debug\net7.0\Example004_ifElse.runtimeconfig.json
+E:\Examples001_HelloConsole\Example004_ifElse\bin\Debug\net7.0\Example004_ifElse.dll
+E:\Examples001_HelloConsole\Example004_ifElse\bin\Debug\net7.0\Example004_ifElse.pdb
+E:\Examples001_HelloConsole\Example004_ifElse\obj\Debug\net7.0\Example004_ifElse.dll
+E:\Examples001_HelloConsole\Example004_ifElse\obj\Debug\net7.0\refint\Example004_ifElse.dll
+E:\Examples001_HelloConsole\Example004_ifElse\obj\Debug\net7.0\Example004_ifElse.pdb
+E:\Examples001_HelloConsole\Example004_ifElse\obj\Debug\net7.0\Example004_ifElse.genruntimeconfig.cache
+E:\Examples001_HelloConsole\Example004_ifElse\obj\Debug\net7.0\ref\Example004_ifElse.dll

@@ -1,0 +1,15 @@
+E:\Examples001_HelloConsole\Example003_Sum\bin\Debug\net7.0\Example003_Sum.exe
+E:\Examples001_HelloConsole\Example003_Sum\bin\Debug\net7.0\Example003_Sum.deps.json
+E:\Examples001_HelloConsole\Example003_Sum\bin\Debug\net7.0\Example003_Sum.runtimeconfig.json
+E:\Examples001_HelloConsole\Example003_Sum\bin\Debug\net7.0\Example003_Sum.dll
+E:\Examples001_HelloConsole\Example003_Sum\bin\Debug\net7.0\Example003_Sum.pdb
+E:\Examples001_HelloConsole\Example003_Sum\obj\Debug\net7.0\Example003_Sum.csproj.AssemblyReference.cache
+E:\Examples001_HelloConsole\Example003_Sum\obj\Debug\net7.0\Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Examples001_HelloConsole\Example003_Sum\obj\Debug\net7.0\Example003_Sum.AssemblyInfoInputs.cache
+E:\Examples001_HelloConsole\Example003_Sum\obj\Debug\net7.0\Example003_Sum.AssemblyInfo.cs
+E:\Examples001_HelloConsole\Example003_Sum\obj\Debug\net7.0\Example003_Sum.csproj.CoreCompileInputs.cache
+E:\Examples001_HelloConsole\Example003_Sum\obj\Debug\net7.0\Example003_Sum.dll
+E:\Examples001_HelloConsole\Example003_Sum\obj\Debug\net7.0\refint\Example003_Sum.dll
+E:\Examples001_HelloConsole\Example003_Sum\obj\Debug\net7.0\Example003_Sum.pdb
+E:\Examples001_HelloConsole\Example003_Sum\obj\Debug\net7.0\Example003_Sum.genruntimeconfig.cache
+E:\Examples001_HelloConsole\Example003_Sum\obj\Debug\net7.0\ref\Example003_Sum.dll
